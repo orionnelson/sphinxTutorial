@@ -75,7 +75,7 @@ sphinx-autobuild docs/source docs/build/html
 remove *
 docs/build/index.md
 *```
-{include}../../README.md
+{include} ../../README.md
 :relative-images:
 *```
 *```{warning}
