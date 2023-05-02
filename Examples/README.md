@@ -7,3 +7,5 @@ Since these functions are well Doccumented a new Developer could Practice.
 - Creating a person and having them say their name
 - import and run the factorial function in the main.py file
 - Understand the ```if __name__ == '__main__':``` line
+
+[Here is the Doc Link to Help with the Above](https://orionnelson.github.io/sphinxTutorial/example.html)
